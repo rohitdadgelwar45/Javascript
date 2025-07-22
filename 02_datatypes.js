@@ -13,6 +13,8 @@ const anotherId = Symbol("123");
 
 // example of BigInt 
 const bigNumber=33839493990383948938n
+
+//typeof() function
 console.log(typeof(bigNumber))
 console.log(id==anotherId)
 
